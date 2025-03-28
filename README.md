@@ -16,21 +16,6 @@ This is a simple real-time chat application built using React, TypeScript, WebSo
 - Express: 4.21.2
 - WebSocket: 4.8.1
 
-## Screenshots
-
-Below are the screenshots of the application showcasing the entrance screen and chat screen.
-
-### Entrance Screen
-
-This is where users can enter their username and click "Join" to enter the chat room.
-
-![Entrance Screen](./top-page.png)
-
-### Chat Screen
-
-Once the user has joined the room, they are taken to the chat screen. The user's name is displayed in the top right corner, and they can send messages to other users in the room.
-
-![Chat Screen](./chat-page.png)
 
 ## Features
 
@@ -52,7 +37,7 @@ Once the user has joined the room, they are taken to the chat screen. The user's
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/yutnagase/react-websocket-chat.git
+git clone https://github.com/karunakar-reddy-04/chat-application.git
 cd react-websocket-chat
 ```
 
@@ -77,16 +62,6 @@ npm run dev
 ```
 
 Note: The setup instructions are based on using Visual Studio Code as the editor.
-
-## Additional Notes
-
-This application provides a smooth real-time communication experience thanks to WebSockets. It allows users to join a room, chat with others, and view messages instantly. It is an excellent starting point for building more complex chat applications or integrating with other tools and services.
-
-Feel free to extend the functionality by adding features like private messaging, rooms, or authentication. With React and Node.js, the possibilities are endless!
-
----
-
-Thank you for checking out this project. Enjoy exploring and enhancing the chat experience!
 
 ## License
 
